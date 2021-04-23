@@ -1,2 +1,2 @@
 # elasticsearch
-gcr.io/fluentd-elasticsearch/elasticsearch:v6.6.1
+docker.elastic.co/elasticsearch/elasticsearch:7.12.0
