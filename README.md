@@ -1,2 +1,2 @@
 # elasticsearch-with-ik
-docker.elastic.co/elasticsearch/elasticsearch:7.12.0
+docker.elastic.co/elasticsearch/elasticsearch
