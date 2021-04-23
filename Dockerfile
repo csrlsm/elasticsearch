@@ -1,4 +1,4 @@
-FROM docker.elastic.co/elasticsearch/elasticsearch:7.12.0
+FROM docker.elastic.co/elasticsearch/elasticsearch:7.10.0
 MAINTAINER csrlsm
 
 RUN  echo "*		hard    nofile		65535" > /etc/security/limit.conf \
